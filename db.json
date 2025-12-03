@@ -56,5 +56,13 @@
       "icon": "🌺",
       "description": "Thành phố ngàn hoa"
     }
+  ],
+  "users": [
+    {
+      "email": "anhhoangtran021204@gmail.com",
+      "password": "$2a$10$0zDSglcqIuJ6CIzXVeKOyu8VWq43EGGgddNW8v8ZMGuthUsDSma/C",
+      "name": "1111111",
+      "id": 1
+    }
   ]
 }
